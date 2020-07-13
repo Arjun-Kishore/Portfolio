@@ -1,0 +1,90 @@
+h1{
+    font-family: sans-serif;
+    color: black;
+}
+#myDog{
+    /* height: 400px ;
+    width: 400px;
+    margin-right: 600px;
+    margin-left: 100 px; */
+    position: relative;
+    left: 30%;
+   
+}
+#me{
+    /* height: 400 px;
+    width: 400px;
+    margin-left: 600px;
+    margin-right: 100px; */
+    position: relative;
+    left: 60%;
+    
+}
+#blueBody{
+    background-color: blue;
+}
+
+.blueText{
+    border: solid;
+    border-color: white;
+    border-width: 10px;
+    background-color: white;
+}
+
+.center{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+a{
+color:black;
+}
+#homepageBackground{
+    background-color: rgb(214, 157, 34);
+}
+h6{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+.secondWepageBody{
+    text-align: center;
+    color: papayawhip;
+    background-color: papayawhip;
+}
+#darkBlue{
+    color: darkblue;
+}
+#lightBlue{
+    color: lightblue;
+}
+
+#arjunKishore{
+    display: inline;
+size: 30 px;
+font-family: sans-serif;
+}
+
+#homepage{
+  
+   position: fixed;
+   left: 46%;
+   width: 150 px;
+    background-color: rgb(255, 174, 0); 
+}
+#sWepage{
+    position: fixed;
+    right: 5%;
+    width: 150 px;
+    background-color: rgb(255, 174, 0)
+}
+
+#blue{
+    
+    position: fixed;
+    left: 10%;
+    top: 200 px;
+    width: 250 px;
+    background-color: rgb(255, 174, 0);
+}
